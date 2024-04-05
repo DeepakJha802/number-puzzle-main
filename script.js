@@ -193,7 +193,7 @@ class Game {
     if (status == "won") {
       document.querySelector(".message").textContent = "You win! ";
       document.getElementById("links").innerHTML = "Click Here to Go further";
-      document.getElementById("links").href = "https://forms.gle/SezPchUWt9hpXkox8";
+      document.getElementById("links").href = "https://forms.gle/HmfcWtiyxXy7B96Z7";
     } else {
       document.querySelector(".message").textContent = "";
     }
